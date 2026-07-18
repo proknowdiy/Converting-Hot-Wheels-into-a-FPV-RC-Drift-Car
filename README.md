@@ -137,22 +137,22 @@ Additional Parts
 > <p align="center">
   <img src="Images/Video-Frame-1.jpg" width="350">
 </p>
-> <p align="center">
+<p align="center">
   <img src="Images/Video-Frame-2.jpg" width="350">
 </p>
-> <p align="center">
+<p align="center">
   <img src="Images/Video-Frame-5.jpg" width="350">
 </p>
-> <p align="center">
+<p align="center">
   <img src="Images/Video-Frame-6.jpg" width="350">
 </p>
-> <p align="center">
+<p align="center">
   <img src="Images/Video-Frame-7.jpg" width="350">
 </p>
-> <p align="center">
+<p align="center">
   <img src="Images/Video-Frame-9.jpg" width="350">
 </p>
-> <p align="center">
+<p align="center">
   <img src="Images/Video-Frame-10.jpg" width="350">
 </p>
 ---
