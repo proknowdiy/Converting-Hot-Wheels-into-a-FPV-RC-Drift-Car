@@ -1,7 +1,7 @@
 # 🚗 Converting a $3 Hot Wheels into a Custom 1:64 Scale FPV RC Drift Car
 
 <p align="center">
-  <img src="images/thumbnail.jpg" width="850">
+  <img src="Images/Converting Hotwheels into FPV RC Drift Car.png" width="850">
 </p>
 
 > A fully functional **1:64 Scale FPV RC Drift Car** built from a **Hot Wheels Mazda RX-3**, featuring **ESP-NOW wireless control**, **proportional steering**, **custom PCB**, and a **live FPV camera**.
@@ -44,24 +44,6 @@ This repository contains everything required to build your own miniature FPV RC 
 - Magnetic Charging Port
 - Working Headlights
 - Compact 45g Design
-
----
-
-# 📁 Repository Contents
-
-```
-├── 3D Files
-├── PCB
-│   ├── Gerber
-│   ├── Schematic
-│   └── PCB Source
-├── Firmware
-│   ├── Receiver
-│   └── Transmitter
-├── Images
-├── BOM
-└── README.md
-```
 
 ---
 
@@ -119,6 +101,7 @@ Additional Parts
 - 2 × M2.5 × 8 mm Standoffs
 - Paper Clips / Safety Pins
 - 2 × Tongue Cleaners
+- Micro Screws Kit
 
 ---
 
@@ -141,6 +124,7 @@ Additional Parts
 - 2 × M2.5 × 8 mm Standoffs
 - Paper Clips / Safety Pins
 - 2 × Tongue Cleaners
+- Micro Screws Kit
 
 ---
 
