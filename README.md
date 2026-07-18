@@ -63,6 +63,10 @@ The PCB includes:
 
 This makes the electronics extremely compact and easy to assemble.
 
+<p align="center">
+  <img src="Images/Video-Frame-4.jpg" width="850">
+</p>
+
 ---
 
 # 🛠 PCB Manufacturing
@@ -130,8 +134,27 @@ Additional Parts
 
 # 📸 Gallery
 
-> *(Add build photos, PCB images and finished car images here.)*
-
+> <p align="center">
+  <img src="Images/Video-Frame-1.jpg" width="350">
+</p>
+> <p align="center">
+  <img src="Images/Video-Frame-2.jpg" width="350">
+</p>
+> <p align="center">
+  <img src="Images/Video-Frame-5.jpg" width="350">
+</p>
+> <p align="center">
+  <img src="Images/Video-Frame-6.jpg" width="350">
+</p>
+> <p align="center">
+  <img src="Images/Video-Frame-7.jpg" width="350">
+</p>
+> <p align="center">
+  <img src="Images/Video-Frame-9.jpg" width="350">
+</p>
+> <p align="center">
+  <img src="Images/Video-Frame-10.jpg" width="350">
+</p>
 ---
 
 # 🚀 Getting Started
