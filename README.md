@@ -135,9 +135,7 @@ Additional Parts
 # 📸 Gallery
 
 > <p align="center">
-  <img src="Images/Video-Frame-1.jpg" width="350">
-  <img src="Images/Video-Frame-2.jpg" width="350">
-  <img src="Images/Video-Frame-5.jpg" width="350">
+  <img src="Images/Video-Frame-1.jpg" width="350"> <img src="Images/Video-Frame-2.jpg" width="350"> <img src="Images/Video-Frame-5.jpg" width="350">
 </p>
 <p align="center">
   <img src="Images/Video-Frame-2.jpg" width="350">
